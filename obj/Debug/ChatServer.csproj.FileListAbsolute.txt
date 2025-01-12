@@ -1,0 +1,47 @@
+c:\users\seregaan\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\seregaan\documents\visual studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\seregaan\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+c:\users\seregaan\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\seregaan\documents\visual studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+c:\users\seregaan\documents\visual studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\Google.Protobuf.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\Renci.SshNet.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\Google.Protobuf.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\Renci.SshNet.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\SendInfoHeader.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\Google.Protobuf.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\Renci.SshNet.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Debug\SendInfoHeader.dll
+D:\ProjectSharp\ChatServer\bin\Debug\ChatServer.exe.config
+D:\ProjectSharp\ChatServer\bin\Debug\ChatServer.exe
+D:\ProjectSharp\ChatServer\bin\Debug\ChatServer.pdb
+D:\ProjectSharp\ChatServer\bin\Debug\Google.Protobuf.dll
+D:\ProjectSharp\ChatServer\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProjectSharp\ChatServer\bin\Debug\Ubiety.Dns.Core.dll
+D:\ProjectSharp\ChatServer\bin\Debug\Renci.SshNet.dll
+D:\ProjectSharp\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\ProjectSharp\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+D:\ProjectSharp\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\ProjectSharp\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+D:\ProjectSharp\ChatServer\obj\Debug\ChatServer.exe
+D:\ProjectSharp\ChatServer\obj\Debug\ChatServer.pdb

@@ -1,0 +1,37 @@
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\ChatServer.exe.config
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\ChatServer.exe
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Release\ChatServer.exe
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Release\ChatServer.pdb
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\ChatServer.exe.config
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Release\ChatServer.exe
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Release\ChatServer.pdb
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\ChatServer.exe
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\MySql.Data.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\Google.Protobuf.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\serega02\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\Renci.SshNet.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\MySql.Data.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\SendInfoHeader.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\Google.Protobuf.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Release\Renci.SshNet.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\ChatServer.exe.config
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\ChatServer.exe
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\MySql.Data.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\SendInfoHeader.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\Google.Protobuf.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\bin\Release\Renci.SshNet.dll
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Release\ChatServer.csprojAssemblyReference.cache
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Release\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Release\ChatServer.csproj.CopyComplete
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Release\ChatServer.exe
+C:\Users\seregaAn\source\repos\ChatServer\ChatServer\obj\Release\ChatServer.pdb
